@@ -1,4 +1,5 @@
 # prince_demo
 this is first public repo
 <br>
-author--prince
+author--pk
+editor chaudhary 
